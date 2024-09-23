@@ -1,0 +1,15 @@
+N:\Downloads\Blockade\Blockade\Blockade\bin\Debug\net6.0\Blockade.exe
+N:\Downloads\Blockade\Blockade\Blockade\bin\Debug\net6.0\Blockade.deps.json
+N:\Downloads\Blockade\Blockade\Blockade\bin\Debug\net6.0\Blockade.runtimeconfig.json
+N:\Downloads\Blockade\Blockade\Blockade\bin\Debug\net6.0\Blockade.dll
+N:\Downloads\Blockade\Blockade\Blockade\bin\Debug\net6.0\Blockade.pdb
+N:\Downloads\Blockade\Blockade\Blockade\obj\Debug\net6.0\Blockade.csproj.AssemblyReference.cache
+N:\Downloads\Blockade\Blockade\Blockade\obj\Debug\net6.0\Blockade.GeneratedMSBuildEditorConfig.editorconfig
+N:\Downloads\Blockade\Blockade\Blockade\obj\Debug\net6.0\Blockade.AssemblyInfoInputs.cache
+N:\Downloads\Blockade\Blockade\Blockade\obj\Debug\net6.0\Blockade.AssemblyInfo.cs
+N:\Downloads\Blockade\Blockade\Blockade\obj\Debug\net6.0\Blockade.csproj.CoreCompileInputs.cache
+N:\Downloads\Blockade\Blockade\Blockade\obj\Debug\net6.0\Blockade.dll
+N:\Downloads\Blockade\Blockade\Blockade\obj\Debug\net6.0\refint\Blockade.dll
+N:\Downloads\Blockade\Blockade\Blockade\obj\Debug\net6.0\Blockade.pdb
+N:\Downloads\Blockade\Blockade\Blockade\obj\Debug\net6.0\Blockade.genruntimeconfig.cache
+N:\Downloads\Blockade\Blockade\Blockade\obj\Debug\net6.0\ref\Blockade.dll
